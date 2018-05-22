@@ -5,5 +5,5 @@ puts "Hello, #{user_name}"
 
 puts "which year were you born in?"
 year = gets.chomp
-age_calc = 2017 - year.to_i
+age_calc = 2018 - year.to_i
 puts "you are #{age_calc}"
