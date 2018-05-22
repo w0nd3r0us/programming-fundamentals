@@ -5,3 +5,5 @@ puts "a good tip of 15% for a $50 meal is $#{55 * 0.15}"
 puts "powerman" + 5000.to_s
 #adding code to a sentence using string interpolation
 puts "the result of 45628 multiplied by 7839 is #{45628 * 7839}"
+#code should be true since the second statement will return a true
+puts (10<20 && 30 < 20) || !(10==11)
